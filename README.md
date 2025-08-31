@@ -1,2 +1,2 @@
-# AI-Pollution-Detection
-AI-Pollution-Detection is an AI-powered system for monitoring pollution in air, water, and land using images. Users upload an image, and the model predicts contamination and its source. For land pollution, soil data can also be integrated for improved accuracy.
+# EcoDetect
+EcoDetect identifies contamination in air, water, and land using images, with optional soil analysis for land pollution. A smart tool to monitor environmental health and take timely action.”
